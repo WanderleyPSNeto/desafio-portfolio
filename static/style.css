@@ -183,3 +183,16 @@ i.menu-mobile {
 *::-webkit-scrollbar-thumb {
     background-color: #121210;
 }
+
+.carousel-control-prev{
+    margin-left: 25%;
+}
+
+.carousel-control-next{
+    margin-right: 25%;
+}
+
+.carousel-indicators{
+    margin-bottom: -35px;
+}
+
